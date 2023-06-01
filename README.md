@@ -1,6 +1,7 @@
 # MIPS_exercises
 ## Computer Architecture
-### Hellenic Mediterranean University, Electronics Engineer Department of Chania Crete
+### Hellenic Mediterranean University 
+### Department of Electronis Engineering 
 
 MARS MIPS Simulation, 
 Winter Semester 2019 - 2020
